@@ -1,5 +1,5 @@
 {
-  "name": "nodemongo",
+  "name": "primeiroAppNodeMongo",
   "version": "1.0.0",
   "description": "Minha primeira aplicação NodeJS com MongoDB",
   "main": "app.js",
